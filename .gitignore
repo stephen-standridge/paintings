@@ -1,0 +1,13 @@
+.DS_Store
+Project.xcconfig
+Makefile
+config.make
+openFrameworks-Info.plist
+tree.xcodeproj/
+obj/
+bin/treeDebug.app/
+bin/tree.data
+bin/tree.html
+bin/tree.html.mem
+bin/tree.js
+
